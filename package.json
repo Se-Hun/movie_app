@@ -17,7 +17,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://Se-Hun/github.io/movie_app",
+  "homepage": "http://Se-Hun.github.io/movie_app",
   "eslintConfig": {
     "extends": "react-app"
   },
